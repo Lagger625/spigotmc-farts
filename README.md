@@ -1,2 +1,2 @@
 # spigotmc-farts
-A prank Minecraft Spigot server plugin for farting on crouching!
+A prank Minecraft Spigot server plugin for farting on crouch!
