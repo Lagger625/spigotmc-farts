@@ -1,0 +1,8 @@
+name: Farts
+version: 1.0.0
+main: tk.lagger625.farts.FartsPlugin
+commands:
+    fart:
+        description: Toggle farting when you crouch.
+        usage: /fart
+        permission: farts.fart
